@@ -2,6 +2,8 @@
  
 Agriculture Dataset in Burmese Language
 
+Contributors - Min Si Thu, Khin Myat Noe
+
 ![Myanmar Agriculture 1K - Dataset Logo](/Myanmar%20Agriculture%201K.png)
 
 
