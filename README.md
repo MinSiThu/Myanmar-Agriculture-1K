@@ -37,7 +37,7 @@ Github - https://github.com/MinSiThu/Myanmar-Agriculture-1K
 
 Zenodo - https://zenodo.org/records/13318601
 
-Hugginface - https://github.com/MinSiThu/Myanmar-Agriculture-1K
+Hugginface - https://huggingface.co/datasets/jojo-ai-mst/Myanmar-Agricutlure-1K
 
 Kaggle - https://www.kaggle.com/datasets/minsithu/myanmar-agriculture-1k
 
