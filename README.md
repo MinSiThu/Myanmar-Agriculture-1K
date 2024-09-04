@@ -60,3 +60,19 @@ References for this dataset
 - https://my.wikipedia.org/wiki/ - For Agricultural facts
 - https://www.doa.gov.mm/fes/index.php?route=common/home - For Agricultural facts
 
+# How to cite
+
+If you find this project useful, please cite the following
+
+```text
+@misc{Myanmar-Agriculture-1K,
+  author = {{MinSiThu,Khin Myat Noe}},
+  title = {Myanmar-Agriculture-1K},
+  version={1}
+  url = {https://github.com/MinSiThu/Myanmar-Agriculture-1K},
+  urldate = {2024-08-14}
+  date = {2024-08-14},
+}
+```
+
+
